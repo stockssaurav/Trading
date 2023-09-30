@@ -1,0 +1,65 @@
+
+  #custo {
+border-collapse: collapse;width:1200px;}
+#custo td,#custo th  {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+#custo th {
+  background-color: #F88379;
+  border: 1px solid black;
+  color: white;
+text-align:left;
+}
+  
+  
+  
+  
+  
+  
+  #custom {
+
+border-collapse: collapse;width:1000px;}
+          #stock {
+
+border-collapse: collapse;width:500px;}
+
+#stock td,#stock th  {
+
+  border: 1px solid black;
+
+  padding: 5px;
+
+}
+
+#stock th {
+
+  background-color: #F88379;
+
+  border: 1px solid black;
+
+  color: white;
+
+
+text-align:left;
+
+}
+
+
+  #custom {
+
+border-collapse: collapse;width:3000px;}
+
+        </style>
+
+
+
+
+
+
+  
+
+
+
+
